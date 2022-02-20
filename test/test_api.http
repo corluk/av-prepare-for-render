@@ -1,0 +1,9 @@
+POST  http://localhost:18080/api/import/assets 
+Content-Type: application/json 
+
+
+{
+    "templateName" : "Modern Dynamic 1" ,
+    "taskName" : "Karadeniz Yaylaları 1", 
+    "sourcePath"  : "test1"
+}
