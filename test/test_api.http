@@ -5,5 +5,9 @@ Content-Type: application/json
 {
     "templateName" : "Modern Dynamic 1" ,
     "taskName" : "Karadeniz Yaylaları 1", 
-    "sourcePath"  : "test1"
+    "sourcePath"  : "test1",
+    "resize" : {
+        "width" : 1920, 
+        "height" : 1080 
+    }
 }
